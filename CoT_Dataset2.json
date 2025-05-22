@@ -1,0 +1,41 @@
+{
+    "causal_reasoning": [
+        {
+            "category": "Causal Reasoning",
+            "input_prompt": "Why do plants grow towards light?",
+            "reasoning_path": [
+                "Plants undergo phototropism\u2014a response to light.",
+                "The hormone auxin accumulates on the shaded side of the plant.",
+                "This causes elongation of cells on that side, making the plant bend towards light."
+            ],
+            "thought_expansion": [
+                "Some plants exhibit negative phototropism (e.g., roots grow away from light).",
+                "Could this behavior inspire solar-tracking technology for renewable energy?"
+            ],
+            "final_answer": "Plants grow towards light due to phototropism, controlled by auxin hormone distribution.",
+            "confidence_level": "High Confidence (95%)",
+            "justification": "This is a well-documented biological process."
+        }
+    ],
+    "ethical_dilemmas": [
+        {
+            "category": "Ethical & Moral Dilemmas",
+            "input_prompt": "Is it ever ethical to break the law?",
+            "reasoning_path": [
+                "Laws exist to maintain order and protect society.",
+                "However, some laws may be unjust (e.g., racial segregation laws in history).",
+                "Civil disobedience can be morally justified if:",
+                "- It is nonviolent.",
+                "- It aims to correct systemic injustices.",
+                "- It leads to positive societal change."
+            ],
+            "thought_expansion": [
+                "History shows movements like Gandhi\u2019s protests & the Civil Rights Movement challenging unjust laws.",
+                "What if AI could analyze historical patterns to predict when laws may need reform?"
+            ],
+            "final_answer": "Breaking the law may be ethical if it challenges injustice nonviolently and seeks greater societal good.",
+            "confidence_level": "Medium Confidence (75%)",
+            "justification": "Ethics depend on context & societal values."
+        }
+    ]
+}
