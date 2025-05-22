@@ -3,7 +3,7 @@ name: 🐛 Bug Report
 about: Report a bug or unexpected behavior
 title: "[Bug] <title>"
 labels: bug
-assignees: yourusername
+assignees: fatbain1
 ---
 
 ## Describe the bug
