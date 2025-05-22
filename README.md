@@ -4,8 +4,8 @@
 Born from the Fatbrain Store #13 vision — evolved to protect decentralized finance.
 
 ## 🔗 Linked Vision
-This prototype extends the concepts of cultural encryption and blockchain memory from our [Culture Encryption Blockchain Repo](https://github.com/fatbrain1/culture-encryption-blockchain).
-
+This prototype extends the concepts of cultural encryption and blockchain memory from our [Culture Encryption Blockchain Repo]([ttps://github.com/fatbrain1/culture-encryption-blockchain).
+](https://github.com/fatbrain1/cultural-encryption-blockchain)
 ## 🔍 What It Does
 - Monitors smart contracts in real-time  
 - Detects abnormal behavior or logic exploits  
